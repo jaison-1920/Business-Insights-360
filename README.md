@@ -68,7 +68,3 @@
 
 ---
 
-## 🔮 License
-
-This project is [MIT licensed](LICENSE).  
-*Note: Dataset sanitized for confidentiality; dummy values used in previews.*
