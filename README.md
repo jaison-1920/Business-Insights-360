@@ -52,7 +52,7 @@
 
 | Finance Overview | Sales Breakdown |
 |------------------|------------------|
-| ![Finance](https://via.placeholder.com/400x200) | ![Sales](https://via.placeholder.com/400x200) |
+| ![Finance](https://github.com/jaison-1920/Business-Insights-360/blob/main/Finance.png) | ![Sales](https://via.placeholder.com/400x200) |
 
 | Supply Chain Analysis | Executive Summary |
 |-----------------------|-------------------|
