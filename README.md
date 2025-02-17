@@ -56,7 +56,7 @@
 
 | Supply Chain Analysis | Executive Summary |
 |-----------------------|-------------------|
-| ![Supply](https://github.com/jaison-1920/Business-Insights-360/blob/main/Supply%20Chain.png) | ![Executive](https://via.placeholder.com/400x200) |
+| ![Supply](https://github.com/jaison-1920/Business-Insights-360/blob/main/Supply%20Chain.png) | ![Executive](https://github.com/jaison-1920/Business-Insights-360/blob/main/Executive.png) |
 
 ---
 
