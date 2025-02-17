@@ -50,9 +50,9 @@
 
 ## 📊 Dashboard Previews
 
-| Finance Overview | Sales Breakdown | Marketing Analysis |
+| Finance Overview | Sales Breakdown |
 |------------------|------------------|
-| ![Finance](https://via.placeholder.com/400x200) | ![Sales](https://via.placeholder.com/400x200) | ![Sales](https://via.placeholder.com/400x200) |
+| ![Finance](https://via.placeholder.com/400x200) | ![Sales](https://via.placeholder.com/400x200) |
 
 | Supply Chain Analysis | Executive Summary |
 |-----------------------|-------------------|
